@@ -1,3 +1,8 @@
+---
+layout: default
+title: 「試験３日前なので本の整理をやってみた」プライバシーポリシー
+---
+
 # 「試験３日前なので本の整理をやってみた」プライバシーポリシー  
 ■個人情報の収集  
 本アプリは、広告配信のためにGoogle 広告、Google AdMob、利用状況解析のためにGoogle Firebase Analyticsを使用しています  
